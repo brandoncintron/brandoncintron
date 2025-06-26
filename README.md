@@ -1,5 +1,7 @@
-# 💫 Brandon Cintron - About Me
+# Brandon Cintron - About Me
 ### Computer Science Student @ University of Central Florida (3rd yr)
+Check out my portfolio site at [https://brandoncintron.dev](https://www.brandoncintron.dev)
+
 
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=brandoncintron&theme=codeSTACKr&hide_border=false)</br>
@@ -35,12 +37,12 @@
 ---
 
 ### 🧰 Dev Tools / Platforms  
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
+[![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#) ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) 
 
 
 ---
 
-# 🌐 Socials:
+### Follow me on LinkedIn:
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/brandon-cintron) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:brandon@brandoncintron.dev) 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
