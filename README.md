@@ -1,5 +1,5 @@
 # 💫 Brandon Cintron - About Me
-Computer Science Student @ University of Central Florida (3rd yr)
+### Computer Science Student @ University of Central Florida (3rd yr)
 
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=brandoncintron&theme=codeSTACKr&hide_border=false)</br>
