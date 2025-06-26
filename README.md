@@ -2,10 +2,9 @@
 Computer Science Student @ University of Central Florida (3rd yr)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=brandoncintron&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=brandoncintron&theme=codeSTACKr&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=brandoncintron&theme=codeSTACKr&hide_border=false)</br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=brandoncintron&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-  
+![](https://github-readme-stats.vercel.app/api?username=brandoncintron&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true) </br>
 
 # 💻 Tech Stack:
 ### 🧠 AI / Machine Learning  
@@ -39,9 +38,9 @@ Computer Science Student @ University of Central Florida (3rd yr)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
 
 
+---
 
-
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/brandon-cintron) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:brandon@brandoncintron.dev) 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
